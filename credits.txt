@@ -1,0 +1,7 @@
+Technology:
+https://getbootstrap.com/
+https://fontawesome.com/
+https://plugins.jquery.com/smooth-scroll/
+https://jquery.com/
+https://github.com/
+https://formspree.io/
